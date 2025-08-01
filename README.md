@@ -27,8 +27,8 @@ I'm a passionate mobile developer specialized in crafting intelligent, high-perf
 - [AGRONOM AI APP](https://github.com/SardorMamatov/AGRONOM_AI_APP.git) – AI-powered mobile solution for agriculture.
 - [Movie App](https://github.com/SardorMamatov/movie_app.git) – Discover, watch, and rate movies with a sleek interface.
 - [Quran App](https://github.com/SardorMamatov/Quran-App.git) – Access and explore the Quran with modern design.
-- [WeatherApp](https://github.com/SardorMamatov/WeatherApp.git) – Real-time weather updates at your fingertips.
-- [smartFit](https://github.com/SardorMamatov/smartFit.git) – Fitness meets intelligence Real-time pose detection with TFLite & ML Kit.
+- [Flutter Car Parking App](https://github.com/car-parking/flutter)– A smart car parking system built during a hackathon. It allows users to find, reserve, and pay for parking spots in real-time.
+- [Redder Logistics](https://github.com/jaloliddinmirzo/redder_logistika) - A team startup project focused on building a logistics solution for local deliveries. Includes driver & admin panel, tracking, and status updates.
 
 ---
 
