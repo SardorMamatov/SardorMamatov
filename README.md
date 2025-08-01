@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Sardor!
 
 **Mobile Developer | AI & Computer Vision Enthusiast**
-
+**Great businesses deserve great apps – and I build them.**
 ---
 
 ### 🚀 About Me
 
-Great businesses deserve great apps – and I build them.
+
 
 I'm a passionate mobile developer specialized in crafting intelligent, high-performing applications using **Flutter** and cutting-edge AI technologies. From integrating **Firebase** for seamless backend to leveraging **TFLite, MediaPipe, and ML Kit** for smart features, I love bringing innovative ideas to life!
 
