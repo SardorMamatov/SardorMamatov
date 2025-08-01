@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sardor!
 
 **Mobile Developer | AI & Computer Vision Enthusiast**
-**Great businesses deserve great apps – and I build them.**
+### ℹ️ Great businesses deserve great apps – and I build them.
 ---
 
 ### 🚀 About Me
