@@ -1,49 +1,71 @@
-# 👋 Hi, I'm Sardor!
+👋 Hi, I'm Sardor
 
-**Mobile Developer | AI & Computer Vision Enthusiast**
-### ℹ️ Great businesses deserve great apps – and I build them.
----
+Mobile Engineer | Flutter Specialist | AI & Computer Vision Developer
 
-### 🚀 About Me
+I build production-ready mobile apps from idea to App Store & Play Market.
 
+🚀 About Me
 
+I'm a Flutter developer focused on building scalable, real-world mobile applications.
+I have successfully developed and published multiple applications to both the App Store and Google Play from scratch.
 
-I'm a passionate mobile developer specialized in crafting intelligent, high-performing applications using **Flutter** and cutting-edge AI technologies. From integrating **Firebase** for seamless backend to leveraging **TFLite, MediaPipe, and ML Kit** for smart features, I love bringing innovative ideas to life!
+My expertise includes:
 
----
+Production-ready Flutter apps
 
-### 🛠️ Skills & Tools
+Firebase backend integration
 
-- **Languages & Frameworks:** Flutter, Dart
-- **AI & CV Libraries:** TFLite, MediaPipe, ML Kit
-- **Cloud & Backend:** Firebase (Realtime Database, Firestore, Authentication, Storage)
-- **Project Management:** Experienced with ClickUp & Jira
-- **Other:** App architecture, UI/UX, REST APIs
+AI-powered features (TFLite, ML Kit, MediaPipe)
 
----
+Clean architecture & scalable codebase
 
-### 🌟 Featured Projects
+Payment integrations & real-time systems
 
-- [AGRONOM AI APP](https://github.com/SardorMamatov/AGRONOM_AI_APP.git) – AI-powered mobile solution for agriculture.
-- [Movie App](https://github.com/SardorMamatov/movie_app.git) – Discover, watch, and rate movies with a sleek interface.
-- [Quran App](https://github.com/SardorMamatov/Quran-App.git) – Access and explore the Quran with modern design.
-- [Flutter Car Parking App](https://github.com/car-parking/flutter)– A smart car parking system built during a hackathon. It allows users to find, reserve, and pay for parking spots in real-time.
-- [Redder Logistics](https://github.com/jaloliddinmirzo/redder_logistika) - A team startup project focused on building a logistics solution for local deliveries. Includes driver & admin panel, tracking, and status updates.
+📱 Published Apps (0 → Store)
+🔹 Ru'ya
 
----
+Live on:
 
-### 💡 Interests
+🍏 App Store: https://apps.apple.com/ru/app/ruya/id6742221001
 
-Artificial Intelligence & Computer Vision | Travelling | Coding | Football | Moving
+🤖 Google Play: https://play.google.com/store/apps/details?id=com.mumina.ruya
 
----
+A full-scale production mobile app built and deployed to both platforms.
 
-### 🌐 Connect with **Sardor Mamatov**
+🔹 E'lonchi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sardor-mamatov-429b0b2b8/)
-[![Twitter/X](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://x.com/SARDOR_MAMAT0V)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Sardor_Mamatov)
+🤖 Google Play: https://play.google.com/store/apps/details?id=com.elonchi.app
 
----
+Marketplace-style mobile application built from scratch.
 
-![Sardor's GitHub stats](https://github-readme-stats.vercel.app/api?username=SardorMamatov&show_icons=true&theme=radical)
+🔹 Qadriyatim
+
+🤖 Google Play: https://play.google.com/store/apps/details?id=com.qadriyatim.uz
+
+Company product developed and released to production.
+
+🛠 Tech Stack
+
+Mobile: Flutter, Dart
+AI / CV: TFLite, MediaPipe, ML Kit
+Backend: Firebase (Auth, Firestore, Storage, Realtime DB)
+Architecture: Clean Architecture, Feature-based structure
+Tools: Git, ClickUp, Jira
+
+💼 What I Focus On
+
+Building apps that scale
+
+Turning ideas into working products
+
+Performance optimization
+
+Clean UI & smooth UX
+
+AI integration in mobile
+
+🌍 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/sardor-mamatov-429b0b2b8/
+
+Telegram: https://t.me/Sardor_work
