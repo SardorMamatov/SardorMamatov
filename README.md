@@ -22,6 +22,12 @@ Clean architecture & scalable codebase
 Payment integrations & real-time systems
 
 📱 Published Apps (0 → Store)
+🔹 E'lonchi
+
+🤖 Google Play: https://play.google.com/store/apps/details?id=com.elonchi.app
+
+Marketplace-style mobile application built from scratch.
+
 🔹 Ru'ya
 
 Live on:
@@ -32,11 +38,6 @@ Live on:
 
 A full-scale production mobile app built and deployed to both platforms.
 
-🔹 E'lonchi
-
-🤖 Google Play: https://play.google.com/store/apps/details?id=com.elonchi.app
-
-Marketplace-style mobile application built from scratch.
 
 🔹 Qadriyatim
 
